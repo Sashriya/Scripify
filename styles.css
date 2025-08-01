@@ -164,3 +164,8 @@ body {
     outline: none;
 }
 
+@media screen and (max-width: 576px) {
+    .book-container {
+        width: 90%;
+    }
+}
